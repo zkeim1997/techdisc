@@ -2,7 +2,7 @@
 title: "Cover image showcase"
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
+coverImage: https://photos.google.com/share/AF1QipMCe932cjb0wBbVr2FgVnR4w4tG7h7pJNQMIGhUhMSCkMIRhK7EkPlxH-wLziEoJg/photo/AF1QipMiCIe1Zx46dpN9gc0EYHbZWgLHUNu_BqoOEK73?key=ZEVXM0tDTzhNb1VBekNGQTVnb29GeW1rbzFCTm5R
 metaAlignment: center
 coverMeta: out
 date: 2015-05-13

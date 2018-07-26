@@ -1,8 +1,8 @@
 ---
-title: "Cover image showcase"
+title: "Spain 2018"
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: img/toledopano.JPG
+coverImage: //img/toledopano.JPG
 metaAlignment: center
 coverMeta: out
 date: 2015-05-13

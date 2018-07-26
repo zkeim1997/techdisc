@@ -2,7 +2,7 @@
 title: "Spain 2018"
 thumbnailImagePosition: left
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: img/toldedopano.JPG
+coverImage: https://techdisc.netlify.com/img/toldedopano.JPG
 metaAlignment: center
 coverMeta: out
 date: 2015-05-13

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plot on Hugo tranquilpeak theme</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in Plot on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/2015/07/welcome/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/welcome/</guid>
+      <description>I am currently a Senior at Purdue University studying cybersecurity. I am striving for acareer in the field of information security focused on defensive and counteractive measures against both simple and advance threats related to vulnerability mitigation, exploit patching, incident response, and policy management. From a young age I have always been fascinated by technology. I chose cybersecurity mainly because it encompasses all aspects of IT and is a constantly changing environment.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532311269239.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2370661239",
+    "id" : "975691BC",
+    "lastKnownWriteTime" : 1532565443,
+    "last_content_update" : 1532565443490,
+    "path" : "~/Documents/hugo1/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "41,28",
+        "scrollLine" : "27"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

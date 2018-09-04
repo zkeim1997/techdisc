@@ -6,7 +6,7 @@ categories: ["R"]
 tags: ["R Markdown"]
 ---
 
-<p>I am currently a Senior at Purdue University studying cybersecurity. I am striving for a<span style="font-weight: 400;">&nbsp;career in the field of information 
+<p>I am currently a Senior at Purdue University studying cybersecurity. I am striving for a<span style="font-weight: 400;">&nbsp; career in the field of information 
 security focused on defensive and counteractive measures against both simple and advance threats related to vulnerability mitigation, exploit patching, incident 
 response, and policy management. From a young age I have always been fascinated by technology. I chose cybersecurity mainly because it encompasses all aspects of 
 IT and is a constantly changing environment.&nbsp;</span>

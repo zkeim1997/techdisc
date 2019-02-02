@@ -21,7 +21,7 @@ This past summer of 2019 I travelled to Spain for three weeks where we visited M
 
 Our next stop was Toledo which is about an hour south of Madrid. The cover image of this post was the first place we stopped in Toledo. The view was amazing. The whole city of Toledo has been named a World Heritage Site because of its beuty and all this history that is there. Its significance in history is most recognized during the Spanish Golden Age which started around 1492. In this Golden Age Moors, Jews, and Christians were able to live together in peace. While in Toledo we visited the Synagogue of Santa Maria la Blanca shown below. It was completed in 1180 making it one of the oldest synagogues in Europe. Our tour guide explained that the pillars inside were made with 8 sides which signified eternal life and the Golden Age.
 
-<img src="https://techdisc.netlify.com/img/santablanca.JPG"> 
+<img src="https://techdisc.netlify.com/img/toledo1.JPG"> 
 
 After visiting Toledo we traveled to the east coast city of Valencia where we would stay for the rest of the trip. We lived with actual locals there for two weeks. Valencia is known for its City of Arts and Sciences shown below. Valencia also has many beautiful beaches and a walking park that stretches for miles.
 

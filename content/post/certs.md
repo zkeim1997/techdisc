@@ -9,7 +9,7 @@ tags:
 - x.509
 keywords:
 - tech
-thumbnailImage: /img/cert.png
+thumbnailImage: https://techdisc.netlify.com/img/cert.png
 thumbnailImagePosition: left
 ---
 

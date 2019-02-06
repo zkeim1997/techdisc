@@ -2,7 +2,7 @@
 title: "2017 Threat Landscape"
 thumbnailImagePosition: left
 thumbnailImage: https://techdisc.netlify.com/img/wannacry.png
-date: 2014-08-15
+date: 2018-02-15
 categories:
 - tranquilpeak
 - features

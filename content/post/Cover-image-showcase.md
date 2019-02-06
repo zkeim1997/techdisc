@@ -5,12 +5,11 @@ thumbnailImagePosition: left
 coverImage: https://techdisc.netlify.com/img/toldedopano.JPG
 metaAlignment: center
 coverMeta: out
-date: 2015-05-13
+date: 2018-05-13
 categories:
-- tranquilpeak
-- features
-tags:
 - Travel
+tags:
+- Spain
 ---
 
 Summer 2019 Study Abroad Trip

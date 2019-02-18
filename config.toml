@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Keim Blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-134700668-1"
 paginate = 7
 canonifyurls = true
 
